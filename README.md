@@ -28,8 +28,8 @@
 
 - Get in touch ➡️ brysonmundia@gmail.com
 
-## My Skills  🚀
-
+<!-- ##  -->
+<h3 align="center"> My Skills  🚀</h3> 
 <p align="center">
     <br>
      <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -52,7 +52,9 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
 
-## Frameworks 🎗️
+<!-- ## Frameworks 🎗️ -->
+<h3 align="center"> Frameworks 🎗️</h3> 
+
 
 <p align="center">
     <br>
@@ -66,8 +68,9 @@
     <br>
 </p>
 
-## Database 
 
+
+<h3 align="center"> Database 🔨</h3> 
 <p align="center">
     <br>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -87,17 +90,25 @@
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624) -->
 
 
-## Tools I Use 🔧
+<h3 align="center"> Tools I Use 🔧 </h3> 
+<!-- ## Tools I Use 🔧 -->
+<p align="center">
+    <br>
+
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+<br>
+</p>
 
 <!-- ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 
-## Design ❤️
+<!-- ## Design ❤️ -->
+<h3 align="center"> Design ❤️ </h3> 
+
 
 <p align="center">
     <br>
@@ -106,10 +117,15 @@
     <br>
 </p>
 
-## Connect with Me 🤝🏻
+<!-- ## Connect with Me 🤝🏻 -->
+<h3 align="center"> Connect with Me 🤝🏻  </h3> 
+
+<p align="center">
+    <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bryson-n-59250b1b5/)
-
+<br>
+</p>
 
 
 
