@@ -28,6 +28,8 @@
 
 - Get in touch ➡️ brysonmundia@gmail.com
 
+---
+
 ## Blog 🔰
 ![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
@@ -47,7 +49,6 @@
 </p> -->
 
 
-## My Skills  🚀
 
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
@@ -99,7 +100,7 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> -->
 
 
-## Connect with Me 🤝🏻
+## Connect with Me just with a click 🤝🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bryson-n-59250b1b5/)
 
@@ -111,8 +112,8 @@
 
 <!-- <h2 align="center"> Connect with me: </h2> -->
 
-<!-- <a href="mailto:brysonmundia@gmail.com">![Custom badge](https://img.shields.io/endpoint?color=green&label=Email&logo=gmail&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2F)</a>
-![Custom badge](https://img.shields.io/endpoint?color=blue&label=Linked%20In&logo=linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2F)-->
+<!-- <a href="mailto:brysonmundia@gmail.com">![Custom badge](https://img.shields.io/endpoint?color=green&label=Email&logo=gmail&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2F)</a>-->
+<!-- ![Custom badge](https://img.shields.io/endpoint?color=blue&label=Linked%20In&logo=linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2F) -->
 
 ---
 
