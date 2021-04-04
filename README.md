@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Bryson 😎</h2> 
+<h2 align="center"> Hi there, I'm Bryson 👋</h2> 
 
 
 <!-- <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
@@ -26,18 +26,14 @@
 
 - Get in touch ➡️ brysonmundia@gmail.com
 
-- Lets connect on [LinkedIn](https://www.linkedin.com/in/brysonmundia)
 
-<p align="center">
-   
-     ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
-     ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-     ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-     ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-</p>
 
 ## My Skills  🚀
 
+![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## More Skills
 
