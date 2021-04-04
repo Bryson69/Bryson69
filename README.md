@@ -28,15 +28,18 @@
 
 - Lets connect on [LinkedIn](https://www.linkedin.com/in/brysonmundia)
 
+<p align="center">
+   
+     ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
+     ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+     ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+     ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</p>
 
-# My Skills 
-![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## My Skills  🚀
 
 
-<summary>More Skills</summary>
+## More Skills
 
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
