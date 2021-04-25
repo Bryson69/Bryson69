@@ -14,10 +14,13 @@
 ![GitHub issues](https://img.shields.io/github/issues/bryson69/Customer-Management?color=purple&logo=%20&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bryson69/Customer-Management?color=%23FF8C00&logo=pre-commit&logoColor=%23FF8C00&style=for-the-badge) -->
 
-<h2 align="center"> Show some ❤️ by starring some of my content</h2> 
-<!-- ## I'm a Web Developer and a !! -->
+<p align="center">Diligent, Creative, technical & design-savvy Software Engineer. Excited to blend graphic design experience with hands-on technical training in a junior-level front-end software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p> 
 
-- 👨 I’m currently working on Web Development.
+<p align="center">Always curious to learn cutting edge technology.</p> 
+
+<p align="center"> 🏉 Fun fact: I love to play rugby. </p>
+
+<!-- - 👨 I’m currently working on Web Development.
 
 - 💡 Currently Learning React.
 
@@ -25,9 +28,9 @@
 
 - 🤝 I’m looking to collaborate with other developers.
 
-- 🏉 Fun fact: I love to play rugby.
+- c
 
-- Get in touch ➡️ brysonmundia@gmail.com
+- Get in touch ➡️ brysonmundia@gmail.com -->
 
 ---
 <p align="center">
@@ -41,7 +44,7 @@
 
 
 
-## My Skills  🚀
+<!-- ## My Skills  🚀 -->
 <!-- 
 <p align="center">
     <br>
@@ -60,7 +63,7 @@
 
 
 
-## Frameworks 🎗️
+<!-- ## Frameworks 🎗️ -->
 <!-- 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
