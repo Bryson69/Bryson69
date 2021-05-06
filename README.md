@@ -14,7 +14,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/bryson69/Customer-Management?color=purple&logo=%20&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bryson69/Customer-Management?color=%23FF8C00&logo=pre-commit&logoColor=%23FF8C00&style=for-the-badge) -->
 
-<p align="center">Diligent, Creative, technical & design-savvy Software Engineer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p> 
+<p align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p> 
 
 <p align="center">Always curious to learn cutting edge technology.</p> 
 
