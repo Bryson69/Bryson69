@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/62892010/119072587-63a74f00-b9f4-11eb-8b6d-28d05eb4d684.jpg" align="center" style="width: 100%" />
 <!-- <img src="https://user-images.githubusercontent.com/62892010/118963671-58f6a680-b96f-11eb-8b64-1cce9896f270.jpg" align="center" style="width: 100%" /> -->
 </div> 
+<br/> 
 <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/> 
   
 
@@ -154,7 +155,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson69&hide_border=true&layout=compact">
           </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bryson69&theme=slateorange">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bryson69&hide_border=true">
     </td>
   </tr>
 </table>
