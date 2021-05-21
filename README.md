@@ -1,13 +1,16 @@
-![](img/BrysonMundiae.gif)
-<img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+
 <!-- ### Hi there 😄   -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/62892010/118963671-58f6a680-b96f-11eb-8b64-1cce9896f270.jpg" align="center" style="width: 100%" />
-</div>  
+<img src="https://user-images.githubusercontent.com/62892010/119072587-63a74f00-b9f4-11eb-8b6d-28d05eb4d684.jpg" align="center" style="width: 100%" />
+<!-- <img src="https://user-images.githubusercontent.com/62892010/118963671-58f6a680-b96f-11eb-8b64-1cce9896f270.jpg" align="center" style="width: 100%" /> -->
+</div> 
+<img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/> 
   
 
 <!-- ### <div align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</div>  
    -->
+
+<br/>  
 
 - 🔭 I’m currently working on [Blog App](https://github.com/Bryson69/Django-Blog)  
   
@@ -26,7 +29,10 @@
 
 <br/>  
 
+## About me
+<p align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p>
 
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
