@@ -13,7 +13,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [Blog App](https://github.com/Bryson69/Django-Blog)  
+- 🔭 I’m currently working on backend and creating API's    
   
 
 - 🌱 I’m currently learning Django, NextJs & ReactJs 
