@@ -116,13 +116,13 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bryson-m-59250b1b5/" target="_blank">
+<a href="https://www.linkedin.com/in/bryson-m-59250b1b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://codepen.io/Bryson99" target="_blank">
+<a href="https://codepen.io/Bryson99/pens/public" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/https://dribbble.com/Bryson_M" target="_blank">
+<a href="https://dribbble.com/Bryson_M" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
 <a href="https://guide101.medium.com/" target="_blank">
