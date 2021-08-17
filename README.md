@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on backend and creating API's    
   
 
-- 🌱 I’m currently learning Django, NextJs & ReactJs 
+- 🌱 I’m currently learning Django, NextJs, TailwindCss & ReactJs 
   
 
 - ❓ Ask me about anything related to Full stack and Mevn stack technologies
