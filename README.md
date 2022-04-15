@@ -14,7 +14,7 @@
 <br/>  
 
 
-- 🌱 I’m currently building applications with React, Tailwind Css 0r Styled Components.
+- 🌱 I’m currently building applications with React, Tailwind Css or Styled Components.
 
 
 - 🔭 Also working on creating API's with DjangoRestFrameWork.
