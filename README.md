@@ -26,9 +26,6 @@
 - ⚡ Fun fact: I use tabs over spaces.
   
 
-- 📧 Feel free to contact me: brysonmundia@gmail.com
-  
-
 <br/>  
 
 ## About me
